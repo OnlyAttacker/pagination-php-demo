@@ -1,7 +1,11 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
+
 	<meta charset="UTF-8">
+	
 	<title>分页</title>
 	<link rel="stylesheet" type="text/css" href="./page.css">
 </head>
